@@ -1,0 +1,31 @@
+:root
+{
+    --primary-color: #2caee2;
+    --bg-color: #fff;
+    --bg-grey: #F4F6F9;
+    --paragraph:#666;
+    --border-color-light:#eee;
+    --active-color:#2caee2;
+    --color-black : black;
+    --standard: white;
+
+
+}
+
+.Core-Values
+{
+    background-color: var(--bg-grey);
+}
+.Core-Values a 
+{
+    color: var(--color-black) !important;
+}
+.Advantages .image 
+{
+    /* width: 100%; */
+}
+.Advantages .image  img
+{
+    width: 100%;
+}
+
